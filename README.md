@@ -21,9 +21,11 @@
   - [ ] part II SW
 
 ### Productivity
+
+  - [ ] extend pods fzf browser: edit deployments, call describe
+  - [ ] vim: try [syntasic](https://github.com/vim-syntastic/syntastic)
   - [x] file history browser w/fzf
   - [x] ssh in tmux popup
-  - [ ] extend pods fzf browser: edit deployments, call describe
 
 ### Devops Skills
 - [ ] jenkins cert
