@@ -31,4 +31,5 @@
 - [ ] jenkins cert
 - [ ] ansible cert
 - [ ] k8s cert
+  📚 [tutorials w/sandbox](https://kubernetes.io/docs/tutorials/)
 - [ ] terraform cert
