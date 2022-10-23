@@ -22,8 +22,10 @@
 
 ### Productivity
 
+  - [ ] sync config
   - [ ] extend pods fzf browser: edit deployments, call describe
   - [ ] vim: try [syntasic](https://github.com/vim-syntastic/syntastic)
+  - [x] [run application with shortcut on mac](https://www.computerhope.com/issues/ch002051.htm)
   - [x] file history browser w/fzf
   - [x] ssh in tmux popup
 
