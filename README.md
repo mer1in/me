@@ -16,8 +16,9 @@
         threadIdx.x;
     ```
   - [ ] [CUDA at Scale for the Enterprise](https://www.coursera.org/learn/cuda-at-scale-for-the-enterprise)
+    - [x]  [final project](https://github.com/mer1in/jhGPUPSc3w5)
 
-- [ ] nand2tetris
+- [ ] [nand2tetris](https://www.nand2tetris.org/)
   - [x] part I HW
   - [ ] part II SW
 
@@ -33,6 +34,7 @@
   - [x] ssh in tmux popup
 
 ### Devops Skills
+
 - [ ] jenkins cert \
   📚 [Certification for Jenkins Engineers](https://www.cloudbees.com/jenkins/certification)
 - [ ] ansible cert
@@ -40,3 +42,8 @@
   📚 [tutorials w/sandbox](https://kubernetes.io/docs/tutorials/)
 - [ ] terraform cert \
   📚 [tutorials](https://developer.hashicorp.com/terraform/tutorials)
+ 
+### Fun
+
+- [ ] tic-tac-toe 2.0 in browser
+- [ ] translatemix
