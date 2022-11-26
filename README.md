@@ -36,7 +36,10 @@
 ### Devops Skills
 
 - [ ] jenkins cert \
-  📚 [Certification for Jenkins Engineers](https://www.cloudbees.com/jenkins/certification)
+  📚 [Certification for Jenkins Engineers](https://www.cloudbees.com/jenkins/certification) \
+    💡 https://github.com/jenkinsci/configuration-as-code-plugin/tree/master/demos \
+    💡 https://cloud.google.com/architecture/jenkins-on-kubernetes-engine \
+    💡 https://www.jenkins.io/projects/jcasc/
 - [ ] ansible cert
 - [ ] k8s cert \
   📚 [tutorials w/sandbox](https://kubernetes.io/docs/tutorials/)
