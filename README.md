@@ -39,7 +39,7 @@
   📚 [Certification for Jenkins Engineers](https://www.cloudbees.com/jenkins/certification) \
     💡 https://github.com/jenkinsci/configuration-as-code-plugin/tree/master/demos \
     💡 https://cloud.google.com/architecture/jenkins-on-kubernetes-engine \
-    💡 https://www.jenkins.io/projects/jcasc/
+    💡 https://www.jenkins.io/projects/jcasc/ \
     💡 `kubectl exec --namespace default -it svc/myjenkins -c jenkins -- /bin/cat /run/secrets/additional/chart-admin-password && echo`
 - [ ] ansible cert
 - [ ] k8s cert \
