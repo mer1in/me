@@ -2,14 +2,14 @@
 
 - [ ] GPU basics
   - [x] [Introduction to concurrent programming with GPU](https://www.coursera.org/learn/introduction-to-concurrent-programming/home/week/1)\
-    💡 [Lock, Actors, ..](https://adit.io/posts/2013-05-15-Locks,-Actors,-And-STM-In-Pictures.html)
+    💡 [Lock, Actors, ..](https://adit.io/posts/2013-05-15-Locks,-Actors,-And-STM-In-Pictures.html) \
     🏆 [cert](https://www.coursera.org/account/accomplishments/certificate/9TRSYYV8EXTG)
   - [x] [Introduction to Parallel Programming with CUDA](https://www.coursera.org/learn/introduction-to-parallel-programming-with-cuda/home/info)\
     💡 [Indexing CheatSheet](https://cs.calvin.edu/courses/cs/374/CUDA/CUDA-Thread-Indexing-Cheatsheet.pdf) \
-    🏆 [cert](https://www.coursera.org/account/accomplishments/certificate/9TRSYYV8EXTG)
+   🏆 [cert](https://www.coursera.org/account/accomplishments/certificate/9TRSYYV8EXTG)
   - [x] [CUDA at Scale for the Enterprise](https://www.coursera.org/learn/cuda-at-scale-for-the-enterprise)
     - [x]  [final project](https://github.com/mer1in/jhGPUPSc3w5) \
-    🏆 [cert](https://www.coursera.org/account/accomplishments/certificate/9TRSYYV8EXTG)
+   🏆 [cert](https://www.coursera.org/account/accomplishments/certificate/9TRSYYV8EXTG)
 
 - [ ] [nand2tetris](https://www.nand2tetris.org/)
   - [x] part I HW
