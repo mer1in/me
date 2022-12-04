@@ -8,7 +8,7 @@
     💡 [Indexing CheatSheet](https://cs.calvin.edu/courses/cs/374/CUDA/CUDA-Thread-Indexing-Cheatsheet.pdf) \
    🏆 [cert](https://www.coursera.org/account/accomplishments/certificate/9TRSYYV8EXTG)
   - [x] [CUDA at Scale for the Enterprise](https://www.coursera.org/learn/cuda-at-scale-for-the-enterprise)
-    - [x]  [final project](https://github.com/mer1in/jhGPUPSc3w5) \
+    - [x]  [final project](https://github.com/mer1in/jhGPUPSc3w5)
    🏆 [cert](https://www.coursera.org/account/accomplishments/certificate/9TRSYYV8EXTG)
 
 - [ ] [nand2tetris](https://www.nand2tetris.org/)
