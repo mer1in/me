@@ -15,7 +15,7 @@
         threadIdx.y * blockDim.x +
         threadIdx.x;
     ```
-  - [ ] [CUDA at Scale for the Enterprise](https://www.coursera.org/learn/cuda-at-scale-for-the-enterprise)
+  - [x] [CUDA at Scale for the Enterprise](https://www.coursera.org/learn/cuda-at-scale-for-the-enterprise)
     - [x]  [final project](https://github.com/mer1in/jhGPUPSc3w5)
 
 - [ ] [nand2tetris](https://www.nand2tetris.org/)
@@ -43,7 +43,7 @@
     💡 `kubectl exec --namespace default -it svc/myjenkins -c jenkins -- /bin/cat /run/secrets/additional/chart-admin-password && echo`
 - [ ] ansible cert
 - [ ] k8s cert \
-  📚 [tutorials w/sandbox](https://kubernetes.io/docs/tutorials/)
+  📚 [tutorials w/sandbox](https://kubernetes.io/docs/tutorials/) \
   📚 [killer](https://killer.sh/)
 - [ ] terraform cert \
   📚 [tutorials](https://developer.hashicorp.com/terraform/tutorials)
