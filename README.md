@@ -34,6 +34,7 @@
     💡 https://cloud.google.com/architecture/jenkins-on-kubernetes-engine \
     💡 https://www.jenkins.io/projects/jcasc/ \
     💡 `kubectl exec --namespace default -it svc/myjenkins -c jenkins -- /bin/cat /run/secrets/additional/chart-admin-password && echo`
+- [ ] azure pipelines
 - [ ] ansible cert
 - [ ] k8s cert \
   📚 [tutorials w/sandbox](https://kubernetes.io/docs/tutorials/) \
