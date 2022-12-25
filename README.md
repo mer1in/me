@@ -38,7 +38,8 @@
 - [ ] ansible cert
 - [ ] k8s cert \
   📚 [tutorials w/sandbox](https://kubernetes.io/docs/tutorials/) \
-  📚 [killer](https://killer.sh/)
+  📚 [killer](https://killer.sh/) \
+  📚 [the hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 - [ ] terraform cert \
   📚 [tutorials](https://developer.hashicorp.com/terraform/tutorials)
  
