@@ -7,9 +7,9 @@
   - [x] [Introduction to Parallel Programming with CUDA](https://www.coursera.org/learn/introduction-to-parallel-programming-with-cuda/home/info)\
     💡 [Indexing CheatSheet](https://cs.calvin.edu/courses/cs/374/CUDA/CUDA-Thread-Indexing-Cheatsheet.pdf) \
    🏆 [cert](https://www.coursera.org/account/accomplishments/certificate/UY2UTWGJ5QVG)
-  - [x] [CUDA at Scale for the Enterprise](https://www.coursera.org/learn/cuda-at-scale-for-the-enterprise) \
+  - [x] [CUDA at Scale for the Enterprise](https://www.coursera.org/learn/cuda-at-scale-for-the-enterprise)
+    - [x]  [final project](https://github.com/mer1in/jhGPUPSc3w5) \
     🏆 [cert](https://www.coursera.org/account/accomplishments/certificate/AFVTHZHRGXB5)
-    - [x]  [final project](https://github.com/mer1in/jhGPUPSc3w5)
 
 - [ ] [nand2tetris](https://www.nand2tetris.org/)
   - [x] part I HW
