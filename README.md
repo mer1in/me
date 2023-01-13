@@ -1,6 +1,6 @@
 ### Programming Skills
 
-- [ ] GPU basics
+- [x] GPU basics
   - [x] [Introduction to concurrent programming with GPU](https://www.coursera.org/learn/introduction-to-concurrent-programming/home/week/1)\
     💡 [Lock, Actors, ..](https://adit.io/posts/2013-05-15-Locks,-Actors,-And-STM-In-Pictures.html) \
     🏆 [cert](https://www.coursera.org/account/accomplishments/certificate/9TRSYYV8EXTG)
