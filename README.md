@@ -9,7 +9,7 @@
    🏆 [cert](https://www.coursera.org/account/accomplishments/certificate/UY2UTWGJ5QVG)
   - [x] [CUDA at Scale for the Enterprise](https://www.coursera.org/learn/cuda-at-scale-for-the-enterprise)
     - [x]  [final project](https://github.com/mer1in/jhGPUPSc3w5) \
-    🏆 [cert](https://www.coursera.org/account/accomplishments/certificate/AFVTHZHRGXB5)
+  🏆 [cert](https://www.coursera.org/account/accomplishments/certificate/AFVTHZHRGXB5)
 
 - [ ] [nand2tetris](https://www.nand2tetris.org/)
   - [x] part I HW
