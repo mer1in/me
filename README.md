@@ -9,7 +9,7 @@
    🏆 [cert](https://www.coursera.org/account/accomplishments/certificate/UY2UTWGJ5QVG)
   - [x] [CUDA at Scale for the Enterprise](https://www.coursera.org/learn/cuda-at-scale-for-the-enterprise) \
     🏆 [cert](https://www.coursera.org/account/accomplishments/certificate/AFVTHZHRGXB5)
-    - [x]  [final project](https://github.com/mer1in/jhGPUPSc3w5)
+    - [x] [final project](https://github.com/mer1in/jhGPUPSc3w5)
 
 - [ ] [nand2tetris](https://www.nand2tetris.org/)
   - [x] part I HW
@@ -21,7 +21,8 @@
   - [ ] extend pods fzf browser:
     - [ ] edit deployments
     - [x] call describe
-  - [x] vim: try [syntasic](https://github.com/vim-syntastic/syntastic)
+  - [x] extend bash <c-n> to show `kubectl use-context`
+  - [x] vim: try [syntastic](https://github.com/vim-syntastic/syntastic)
   - [x] [run application with shortcut on mac](https://www.computerhope.com/issues/ch002051.htm)
   - [x] file history browser w/fzf
   - [x] ssh in tmux popup
