@@ -42,6 +42,8 @@
   📚 [tutorials w/sandbox](https://kubernetes.io/docs/tutorials/) \
   📚 [killer](https://killer.sh/) \
   📚 [the hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+  🧐 rbac
+  🧐 taints, tolerations and affinities
 - [ ] terraform cert \
   📚 [tutorials](https://developer.hashicorp.com/terraform/tutorials)
  
