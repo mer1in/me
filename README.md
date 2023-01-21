@@ -46,6 +46,7 @@
   🧐 rbac
 - [ ] terraform cert \
   📚 [tutorials](https://developer.hashicorp.com/terraform/tutorials)
+- [ ] se linux
  
 ### Fun
 
