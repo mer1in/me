@@ -40,7 +40,7 @@
   📚 [tutorials w/sandbox](https://kubernetes.io/docs/tutorials/) \
   📚 [killer](https://killer.sh/) \
   📚 [the hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
-  [x] 🧐 taints, tolerations and affinities\
+  - [x] 🧐 taints, tolerations and affinities\
   🧐 rbac \
   🧐 update strategy types \
 - [ ] terraform cert \
