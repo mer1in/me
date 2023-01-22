@@ -37,6 +37,7 @@
     💡 `kubectl exec --namespace default -it svc/myjenkins -c jenkins -- /bin/cat /run/secrets/additional/chart-admin-password && echo` \
     🏆 [cert](https://certificates.cloudbees.com/b0b578de-30a6-4d50-8590-5041aaf7608e#gs.n283r8)
 - [ ] k8s cert \
+  📚 [kodekloud](https://kodekloud.com/courses/labs-certified-kubernetes-application-developer/) \
   📚 [tutorials w/sandbox](https://kubernetes.io/docs/tutorials/) \
   📚 [killer](https://killer.sh/) \
   📚 [the hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
