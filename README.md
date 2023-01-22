@@ -36,17 +36,17 @@
     💡 https://www.jenkins.io/projects/jcasc/ \
     💡 `kubectl exec --namespace default -it svc/myjenkins -c jenkins -- /bin/cat /run/secrets/additional/chart-admin-password && echo` \
     🏆 [cert](https://certificates.cloudbees.com/b0b578de-30a6-4d50-8590-5041aaf7608e#gs.n283r8)
-- [ ] azure pipelines
-- [ ] ansible cert
 - [ ] k8s cert \
   📚 [tutorials w/sandbox](https://kubernetes.io/docs/tutorials/) \
   📚 [killer](https://killer.sh/) \
   📚 [the hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
-  [x] 🧐 taints, tolerations and affinities
-  🧐 rbac
-  🧐 update strategy types
+  [x] 🧐 taints, tolerations and affinities\
+  🧐 rbac \
+  🧐 update strategy types \
 - [ ] terraform cert \
   📚 [tutorials](https://developer.hashicorp.com/terraform/tutorials)
+- [ ] azure pipelines
+- [ ] ansible cert
 - [ ] se linux
  
 ### Fun
