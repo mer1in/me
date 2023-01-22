@@ -41,10 +41,12 @@
   📚 [tutorials w/sandbox](https://kubernetes.io/docs/tutorials/) \
   📚 [killer](https://killer.sh/) \
   📚 [the hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+  📚 [some GO (youtube)](https://www.youtube.com/@viveksinghggits/playlists)
   - [x] 🧐 taints, tolerations and affinities
   - [ ] 🧐 rbac
   - [ ] 🧐 update strategy types
   - [ ] 🧐 hpa
+  
 - [ ] terraform cert \
   📚 [tutorials](https://developer.hashicorp.com/terraform/tutorials)
 - [ ] azure pipelines
