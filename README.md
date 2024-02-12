@@ -36,7 +36,7 @@
     💡 https://www.jenkins.io/projects/jcasc/ \
     💡 `kubectl exec --namespace default -it svc/myjenkins -c jenkins -- /bin/cat /run/secrets/additional/chart-admin-password && echo` \
     🏆 [cert](https://certificates.cloudbees.com/b0b578de-30a6-4d50-8590-5041aaf7608e#gs.n283r8)
-- [ ] k8s \
+- [x] k8s \
   📚 [kodekloud](https://kodekloud.com/courses/labs-certified-kubernetes-application-developer/) \
   📚 [tutorials w/sandbox](https://kubernetes.io/docs/tutorials/) \
   📚 [killer](https://killer.sh/) \
@@ -46,9 +46,10 @@
     - [ ] [II](https://www.youtube.com/watch?v=89PdRvRUcPU&list=PLh4KH3LtJvRTtFWz1WGlyDa7cKjj2Sns0&ab_channel=VivekSingh)
     - [ ] [III](https://www.youtube.com/watch?v=lzoWSfvE2yA&list=PLh4KH3LtJvRQ43JAwwjvTnsVOMp0WKnJO&ab_channel=VivekSingh)
   - [x] 🧐 taints, tolerations and affinities
-  - [ ] 🧐 rbac
+  - [x] 🧐 rbac
   - [ ] 🧐 update strategy types
-  - [ ] 🧐 hpa
+  - [ ] 🧐 hpa \
+    🏆 [cert](https://www.credly.com/badges/e675f7ff-2a4d-4ab1-b064-70dfbf75ec59/linked_in_profile)
   
 - [ ] terraform cert \
   📚 [tutorials](https://developer.hashicorp.com/terraform/tutorials)
