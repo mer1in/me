@@ -65,4 +65,3 @@
 ### Lib
 
 https://e.printstacktrace.blog/groovy-regular-expressions-the-definitive-guide/
-move windows to another display on mac: Preferences->Keypboard->Shortcuts->App Shortcuts->"+"
