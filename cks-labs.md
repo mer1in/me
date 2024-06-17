@@ -5,7 +5,7 @@
 - [ ] 05. [Certificates API](https://learn.kodekloud.com/user/courses/certified-kubernetes-security-specialist-cks/module/eac6dac8-4481-4138-96ef-a2135f20e05e/lesson/f1351e20-2750-4c06-9a4b-814169928fa1)
 - [x] 06. [KubeConfig](https://learn.kodekloud.com/user/courses/certified-kubernetes-security-specialist-cks/module/eac6dac8-4481-4138-96ef-a2135f20e05e/lesson/1166d810-3163-4003-8d54-0f66f5b253f2)
 - [x] 07. [RBAC](https://learn.kodekloud.com/user/courses/certified-kubernetes-security-specialist-cks/module/eac6dac8-4481-4138-96ef-a2135f20e05e/lesson/3a9a1cb3-c889-472b-9fc2-48bff380c595)
-- [ ] 08. [Cluster Roles and Role Bindings](https://learn.kodekloud.com/user/courses/certified-kubernetes-security-specialist-cks/module/eac6dac8-4481-4138-96ef-a2135f20e05e/lesson/1fe8dad2-d540-4669-a0fc-4cb22f1b8abc)
+- [ ] 08. [Cluster Roles and Role Bindings](https://learn.kodekloud.com/user/courses/certified-kubernetes-security-specialist-cks/module/eac6dac8-4481-4138-96ef-a2135f20e05e/lesson/1fe8dad2-d540-4669-a0fc-4cb22f1b8abc) - have to repeat more
 - [ ] 09. [Kubelet Security](https://learn.kodekloud.com/user/courses/certified-kubernetes-security-specialist-cks/module/eac6dac8-4481-4138-96ef-a2135f20e05e/lesson/3d54f860-f552-48a2-8ac2-886bacd00893)
 - [ ] 10. [Kubectl Proxy & Port Forward](https://learn.kodekloud.com/user/courses/certified-kubernetes-security-specialist-cks/module/eac6dac8-4481-4138-96ef-a2135f20e05e/lesson/e572aaf4-1736-4865-9dd1-b2e46aaaca04)
 - [ ] 11. [Secure Kubernetes Dashboard](https://learn.kodekloud.com/user/courses/certified-kubernetes-security-specialist-cks/module/eac6dac8-4481-4138-96ef-a2135f20e05e/lesson/11b097bc-b8e2-4fbe-bd08-badeeaa5e8bc)
@@ -29,13 +29,12 @@
 - [ ] 29. [OPA Gatekeeper](https://learn.kodekloud.com/user/courses/certified-kubernetes-security-specialist-cks/module/7431dd03-f5c2-4ebb-b94a-2d35615bbd8c/lesson/bc3597d6-6c1a-4cf4-8252-d899492a176e)
 - [ ] 30. [Manage Kubernetes secrets](https://learn.kodekloud.com/user/courses/certified-kubernetes-security-specialist-cks/module/7431dd03-f5c2-4ebb-b94a-2d35615bbd8c/lesson/0f29d43a-a993-41fb-b58d-5c99f56c356a)
 - [ ] 31. [Using Runtimes in Kubernetes](https://learn.kodekloud.com/user/courses/certified-kubernetes-security-specialist-cks/module/7431dd03-f5c2-4ebb-b94a-2d35615bbd8c/lesson/00d9d823-77cb-43cb-9229-ad9faea41282)
-- [ ] 32. 
-- [ ] 33. [Image Security](https://learn.kodekloud.com/user/courses/certified-kubernetes-security-specialist-cks/module/e4511664-185f-4204-9aa2-b4250cbadf84/lesson/371155ba-3296-4fa9-8909-0bb98679c6ec)
-- [ ] 34. [Whitelist Allowed Registries - ImagePolicyWe...](https://learn.kodekloud.com/user/courses/certified-kubernetes-security-specialist-cks/module/e4511664-185f-4204-9aa2-b4250cbadf84/lesson/4046f239-4ef2-431c-affc-9f27032a3b28)
-- [ ] 35. [KubeSec](https://learn.kodekloud.com/user/courses/certified-kubernetes-security-specialist-cks/module/e4511664-185f-4204-9aa2-b4250cbadf84/lesson/11566885-cd7c-468d-a321-5d9d6fed5f46)
-- [ ] 36. [Trivy](https://learn.kodekloud.com/user/courses/certified-kubernetes-security-specialist-cks/module/e4511664-185f-4204-9aa2-b4250cbadf84/lesson/43e9d2a7-8f3a-447d-ba9e-586ab14d165b)
-- [ ] 37. [Use Falco to Detect Threats](https://learn.kodekloud.com/user/courses/certified-kubernetes-security-specialist-cks/module/c0d849e1-54be-4d78-8936-6ce49434b88d/lesson/a17a72ac-3fa6-420f-b58d-3740a1ffe114)
-- [ ] 38. [Ensure Immutability of Containers at Runti...](https://learn.kodekloud.com/user/courses/certified-kubernetes-security-specialist-cks/module/c0d849e1-54be-4d78-8936-6ce49434b88d/lesson/71a86fa2-0c82-4bd5-a5f1-bba594c39290)
-- [ ] 39. [Use Audit Logs to monitor access](https://learn.kodekloud.com/user/courses/certified-kubernetes-security-specialist-cks/module/c0d849e1-54be-4d78-8936-6ce49434b88d/lesson/b1d71742-71c2-48d8-850b-d0e5625c990e)
+- [ ] 32. [Image Security](https://learn.kodekloud.com/user/courses/certified-kubernetes-security-specialist-cks/module/e4511664-185f-4204-9aa2-b4250cbadf84/lesson/371155ba-3296-4fa9-8909-0bb98679c6ec)
+- [ ] 33. [Whitelist Allowed Registries - ImagePolicyWe...](https://learn.kodekloud.com/user/courses/certified-kubernetes-security-specialist-cks/module/e4511664-185f-4204-9aa2-b4250cbadf84/lesson/4046f239-4ef2-431c-affc-9f27032a3b28)
+- [ ] 34. [KubeSec](https://learn.kodekloud.com/user/courses/certified-kubernetes-security-specialist-cks/module/e4511664-185f-4204-9aa2-b4250cbadf84/lesson/11566885-cd7c-468d-a321-5d9d6fed5f46)
+- [ ] 35. [Trivy](https://learn.kodekloud.com/user/courses/certified-kubernetes-security-specialist-cks/module/e4511664-185f-4204-9aa2-b4250cbadf84/lesson/43e9d2a7-8f3a-447d-ba9e-586ab14d165b)
+- [ ] 36. [Use Falco to Detect Threats](https://learn.kodekloud.com/user/courses/certified-kubernetes-security-specialist-cks/module/c0d849e1-54be-4d78-8936-6ce49434b88d/lesson/a17a72ac-3fa6-420f-b58d-3740a1ffe114)
+- [ ] 37. [Ensure Immutability of Containers at Runti...](https://learn.kodekloud.com/user/courses/certified-kubernetes-security-specialist-cks/module/c0d849e1-54be-4d78-8936-6ce49434b88d/lesson/71a86fa2-0c82-4bd5-a5f1-bba594c39290)
+- [ ] 38. [Use Audit Logs to monitor access](https://learn.kodekloud.com/user/courses/certified-kubernetes-security-specialist-cks/module/c0d849e1-54be-4d78-8936-6ce49434b88d/lesson/b1d71742-71c2-48d8-850b-d0e5625c990e)
 
 
