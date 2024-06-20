@@ -1,8 +1,8 @@
 - [x] 01. [Run CIS Benchmark Assessment tool on Ubuntu](https://learn.kodekloud.com/user/courses/certified-kubernetes-security-specialist-cks/module/eac6dac8-4481-4138-96ef-a2135f20e05e/lesson/1f579418-522f-4c04-81f8-4b8ae7f6a2dc)
 - [x] 02. [Kube-bench](https://learn.kodekloud.com/user/courses/certified-kubernetes-security-specialist-cks/module/eac6dac8-4481-4138-96ef-a2135f20e05e/lesson/c370c677-ee22-4fd3-902b-99a0e58a0e00)
-- [ ] 03. [Service-accounts](https://learn.kodekloud.com/user/courses/certified-kubernetes-security-specialist-cks/module/eac6dac8-4481-4138-96ef-a2135f20e05e/lesson/91ec7013-793b-4d2b-af05-0c0b01fc81c9) - unexpected final state of the lab env
-- [ ] 04. [View Certificates](https://learn.kodekloud.com/user/courses/certified-kubernetes-security-specialist-cks/module/eac6dac8-4481-4138-96ef-a2135f20e05e/lesson/2b2e2173-8bdf-4632-88b6-7f7441b50b52)
-- [ ] 05. [Certificates API](https://learn.kodekloud.com/user/courses/certified-kubernetes-security-specialist-cks/module/eac6dac8-4481-4138-96ef-a2135f20e05e/lesson/f1351e20-2750-4c06-9a4b-814169928fa1)
+- [x] 03. [Service-accounts](https://learn.kodekloud.com/user/courses/certified-kubernetes-security-specialist-cks/module/eac6dac8-4481-4138-96ef-a2135f20e05e/lesson/91ec7013-793b-4d2b-af05-0c0b01fc81c9)
+- [x] 04. [View Certificates](https://learn.kodekloud.com/user/courses/certified-kubernetes-security-specialist-cks/module/eac6dac8-4481-4138-96ef-a2135f20e05e/lesson/2b2e2173-8bdf-4632-88b6-7f7441b50b52)
+- [x] 05. [Certificates API](https://learn.kodekloud.com/user/courses/certified-kubernetes-security-specialist-cks/module/eac6dac8-4481-4138-96ef-a2135f20e05e/lesson/f1351e20-2750-4c06-9a4b-814169928fa1)
 - [x] 06. [KubeConfig](https://learn.kodekloud.com/user/courses/certified-kubernetes-security-specialist-cks/module/eac6dac8-4481-4138-96ef-a2135f20e05e/lesson/1166d810-3163-4003-8d54-0f66f5b253f2)
 - [x] 07. [RBAC](https://learn.kodekloud.com/user/courses/certified-kubernetes-security-specialist-cks/module/eac6dac8-4481-4138-96ef-a2135f20e05e/lesson/3a9a1cb3-c889-472b-9fc2-48bff380c595)
 - [ ] 08. [Cluster Roles and Role Bindings](https://learn.kodekloud.com/user/courses/certified-kubernetes-security-specialist-cks/module/eac6dac8-4481-4138-96ef-a2135f20e05e/lesson/1fe8dad2-d540-4669-a0fc-4cb22f1b8abc) - have to repeat more
