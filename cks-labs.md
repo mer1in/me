@@ -22,7 +22,7 @@
 - [x] 22. [AppArmor](https://learn.kodekloud.com/user/courses/certified-kubernetes-security-specialist-cks/module/d67be5ee-871d-4435-a187-382610cb6a1f/lesson/058cc5f9-4239-44ec-8021-e9201d4edc2b)
 - [x] 23. [Security Contexts](https://learn.kodekloud.com/user/courses/certified-kubernetes-security-specialist-cks/module/7431dd03-f5c2-4ebb-b94a-2d35615bbd8c/lesson/62cc10fa-4d66-40be-87d6-5002112f4a54)
 - [x] 24. [Admission Controllers](https://learn.kodekloud.com/user/courses/certified-kubernetes-security-specialist-cks/module/7431dd03-f5c2-4ebb-b94a-2d35615bbd8c/lesson/07a89281-4a2c-4cf1-a6ce-db287457cf05)
-- [ ] 25. [Validating and mutating Admission Controllers](https://learn.kodekloud.com/user/courses/certified-kubernetes-security-specialist-cks/module/7431dd03-f5c2-4ebb-b94a-2d35615bbd8c/lesson/65fb07e4-26e5-47c8-a1c2-115b9d934385)
+- [x] 25. [Validating and mutating Admission Controllers](https://learn.kodekloud.com/user/courses/certified-kubernetes-security-specialist-cks/module/7431dd03-f5c2-4ebb-b94a-2d35615bbd8c/lesson/65fb07e4-26e5-47c8-a1c2-115b9d934385)
 - [ ] 26. [Pod Security Admission](https://learn.kodekloud.com/user/courses/certified-kubernetes-security-specialist-cks/module/7431dd03-f5c2-4ebb-b94a-2d35615bbd8c/lesson/950cbe12-3b93-4d12-b81d-fa223fda476e)
 - [ ] 27. [OPA](https://learn.kodekloud.com/user/courses/certified-kubernetes-security-specialist-cks/module/7431dd03-f5c2-4ebb-b94a-2d35615bbd8c/lesson/eecb8373-8a36-4008-871e-afd5dbf59b23)
 - [ ] 28. [OPA in Kubernetes](https://learn.kodekloud.com/user/courses/certified-kubernetes-security-specialist-cks/module/7431dd03-f5c2-4ebb-b94a-2d35615bbd8c/lesson/13a2b63a-24ac-4430-bc1f-42e03006412a)
