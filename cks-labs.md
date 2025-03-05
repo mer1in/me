@@ -36,5 +36,6 @@
 - [ ] 36. [Use Falco to Detect Threats](https://learn.kodekloud.com/user/courses/certified-kubernetes-security-specialist-cks/module/c0d849e1-54be-4d78-8936-6ce49434b88d/lesson/a17a72ac-3fa6-420f-b58d-3740a1ffe114)
 - [ ] 37. [Ensure Immutability of Containers at Runti...](https://learn.kodekloud.com/user/courses/certified-kubernetes-security-specialist-cks/module/c0d849e1-54be-4d78-8936-6ce49434b88d/lesson/71a86fa2-0c82-4bd5-a5f1-bba594c39290)
 - [ ] 38. [Use Audit Logs to monitor access](https://learn.kodekloud.com/user/courses/certified-kubernetes-security-specialist-cks/module/c0d849e1-54be-4d78-8936-6ce49434b88d/lesson/b1d71742-71c2-48d8-850b-d0e5625c990e)
-
-
+Nice deep dive into auth mechanics
+- [ ] xx. [Lab-Retrieve Service Account token and use it to access API server](https://learn.kodekloud.com/user/courses/certified-kubernetes-security-specialist-cks/module/eac6dac8-4481-4138-96ef-a2135f20e05e/lesson/37e01fe4-65de-4b1c-8155-f3f7289bffb1)
+- [ ] xx. [Lab-Implement ABAC policy](https://learn.kodekloud.com/user/courses/certified-kubernetes-security-specialist-cks/module/eac6dac8-4481-4138-96ef-a2135f20e05e/lesson/439edd67-be75-4f6d-82c1-d7ede1237e08)
